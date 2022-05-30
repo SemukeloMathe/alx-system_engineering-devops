@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc++ "Hello, World\n"
+gcc++ "Hello, World\n" ;
